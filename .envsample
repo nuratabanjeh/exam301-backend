@@ -1,1 +1,2 @@
 PORT=3001
+MONGODB_URL=mongodb+srv://nuratab:<NURATAB@2061996>@cluster0.9gjtn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
